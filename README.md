@@ -21,7 +21,6 @@ Be sure to create the tables in the correct order to handle the foreign keys.
 
 Import each CSV file into its corresponding SQL table.
 
-## HINT
 ### Data Analysis
 List the employee number, last name, first name, sex, and salary of each employee.
 
